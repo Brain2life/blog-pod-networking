@@ -1,3 +1,3 @@
 # Container communication within the same Pod
 
-Find out more at []()
+Article: [Container Communication within Kubernetes Pods: Shared IP and Ports](https://maxat-akbanov.com/container-communication-within-kubernetes-pods-shared-ip-and-ports)
