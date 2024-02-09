@@ -1,2 +1,3 @@
-# blog-pod-networking
-Example of Container communication in the same Kubernetes Pod
+# Container communication within the same Pod
+
+Find out more at []()
